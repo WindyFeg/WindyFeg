@@ -1,6 +1,4 @@
 
-<img height="150" width="100%" class="bordered-image" src="https://static.vecteezy.com/system/resources/previews/011/919/489/original/aesthetic-colorful-cute-pastel-blue-and-green-gradient-wallpaper-illustration-perfect-for-wallpaper-backdrop-postcard-background-banner-vector.jpg" />
-
 ###
 
 <h1 align="center">Hi</h1>
