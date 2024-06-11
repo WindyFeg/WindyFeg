@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Ky Phong also known as WindyFeng from Vietnam<br><br>-  I'm currently learning to be Front end developer<br>- In my free time I'm Game Developer</p>
+<p align="left">I'm Ky Phong also known as WindyFeng from Vietnam<br><br>-  I'm currently learning to be Front end and  Game Developer<br></p>
 
 ###
 
