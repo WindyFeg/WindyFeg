@@ -98,6 +98,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WindyFeg/WindyFeg/output/snake.svg" alt="Snake animation" />
+<!--- <img src="https://raw.githubusercontent.com/WindyFeg/WindyFeg/output/snake.svg" alt="Snake animation" /> -->
 
 ###
